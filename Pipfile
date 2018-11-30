@@ -5,6 +5,13 @@ name = "pypi"
 
 [packages]
 click = "*"
+kaggle = "*"
+sklearn = "*"
+pandas = "*"
+jupyter = "*"
+matplotlib = "*"
+seaborn = "*"
+ipykernel = "*"
 
 [dev-packages]
 pylint = "*"
