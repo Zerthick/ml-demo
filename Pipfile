@@ -12,6 +12,7 @@ jupyter = "*"
 matplotlib = "*"
 seaborn = "*"
 ipykernel = "*"
+flask = "*"
 
 [dev-packages]
 pylint = "*"
