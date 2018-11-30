@@ -13,6 +13,7 @@ matplotlib = "*"
 seaborn = "*"
 ipykernel = "*"
 flask = "*"
+flasgger = "*"
 
 [dev-packages]
 pylint = "*"
